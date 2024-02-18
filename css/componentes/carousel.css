@@ -1,0 +1,20 @@
+.contenido_carousel {
+  width: 50%;
+  display: block;
+}
+
+#carouselExampleInterval {
+  display: block;
+}
+
+.carousel_imagen_texto {
+  -webkit-text-stroke: 1px #f8f8f8;
+  -webkit-text-stroke-color: #ff8000;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+}
+
+.carousel_imagen_texto_descripcion {
+  -webkit-text-stroke: 1px #f8f8f8;
+  -webkit-text-stroke-color: #ff8000;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+}

@@ -1,0 +1,21 @@
+section.footer {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 102px;
+  backdrop-filter: blur(4px);
+}
+
+.footer_text {
+  width: 18%;
+  padding: 2rem 0;
+}
+
+.footer_text_desarrollado {
+  text-align: center;
+}
+
+.footer_text_ano {
+  text-align: center;
+}

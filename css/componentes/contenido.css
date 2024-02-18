@@ -1,0 +1,22 @@
+container.contenido {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.contenido_texto {
+  width: 48%;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.contenido_parrafo {
+  display: inline-block;
+}

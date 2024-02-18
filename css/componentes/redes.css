@@ -1,0 +1,13 @@
+.contenido_carousel_redes_links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px auto;
+  padding-left: 0;
+}
+
+.contenido_carousel_redes_links_redes {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

@@ -1,0 +1,16 @@
+.empresa {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.empresa_letras {
+  margin-bottom: 0;
+  font-size: 6rem;
+  font-weight: bold;
+  color: #ffffff;
+  -webkit-text-stroke: 4px #f8f8f8;
+  -webkit-text-stroke-color: #ff8000;
+  text-shadow: 14px 7px 14px black, 0 0 1em black, 0 0 0.1em black;
+}
